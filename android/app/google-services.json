@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668745928378",
+    "project_id": "fluttertest2411",
+    "storage_bucket": "fluttertest2411.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668745928378:android:ef2f8893bafdf614e73c83",
+        "android_client_info": {
+          "package_name": "com.agallardo.crud2411"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjN2lSsDclcUdjqVm-c_djPCq7SF1aP9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
